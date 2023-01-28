@@ -1,0 +1,14 @@
+.App {
+  background: rgb(8, 100, 122);
+  width: 100%;
+  height: fit-content;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.App h2{
+    text-align: center;
+    margin-top: 1.5rem;
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
